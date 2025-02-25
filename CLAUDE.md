@@ -1,6 +1,6 @@
 # Claude AI | **Anthropic**
 
-**Claude AI **es un asistente conversacional desarrollado por **Anthropic** que se distingue por su enfoque basado en ***Constitutional AI***. Esto significa que sus respuestas se rigen por un conjunto predefinido de principios éticos y de seguridad, lo que reduce la probabilidad de generar contenido dañino y mejora la consistencia en las interacciones.
+**Claude AI** es un asistente conversacional desarrollado por **Anthropic** que se distingue por su enfoque basado en ***Constitutional AI***. Esto significa que sus respuestas se rigen por un conjunto predefinido de principios éticos y de seguridad, lo que reduce la probabilidad de generar contenido dañino y mejora la consistencia en las interacciones.
 
 - **Enfoque ético y seguro**: Utiliza principios similares al "Constitutional AI" para guiar sus respuestas de manera segura y responsable.
 - **Conversación natural**: Diseñado para interactuar de forma fluida y coherente con los usuarios.
