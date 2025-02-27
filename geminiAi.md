@@ -45,3 +45,11 @@ La superioridad de Gemini sobre otras IAs radica en su combinación de multimoda
 **En resumen:**
 
 Gemini continúa avanzando y expandiendo sus capacidades. Su integración en televisores y su papel en la mejora de la búsqueda son ejemplos de cómo Gemini está transformando la forma en que interactuamos con la tecnología. Con sus modelos actualizados y su disponibilidad para desarrolladores, Gemini se posiciona como una herramienta clave en el futuro de la IA.
+# Avance Investigacion lo ultimo de Gemini
+
+2025.02.20
+La subida de documentos ya está disponible para todos los usuarios de Gemini
+
+Qué: puedes subir fácilmente varios documentos de Google, PDFs y documentos de Word desde Google Drive o desde tu dispositivo a Gemini para pedirle que te extraiga resúmenes o información clave, o te proponga mejoras. Actualmente, Gemini ofrece una ventana de contexto de 32.000 tokens (alrededor de 50 páginas de texto), con límites de uso. Los usuarios de Gemini Advanced seguirán disponiendo de una ventana de contexto de 1 millón de tokens (alrededor de 1500 páginas de texto) y límites de uso mucho más altos.
+
+Por qué: obtén información más completa de tus documentos y agiliza tus flujos de trabajo con Gemini para ahorrar tiempo y aumentar tu productividad.
