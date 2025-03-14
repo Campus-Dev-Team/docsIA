@@ -53,3 +53,15 @@ La subida de documentos ya está disponible para todos los usuarios de Gemini
 Qué: puedes subir fácilmente varios documentos de Google, PDFs y documentos de Word desde Google Drive o desde tu dispositivo a Gemini para pedirle que te extraiga resúmenes o información clave, o te proponga mejoras. Actualmente, Gemini ofrece una ventana de contexto de 32.000 tokens (alrededor de 50 páginas de texto), con límites de uso. Los usuarios de Gemini Advanced seguirán disponiendo de una ventana de contexto de 1 millón de tokens (alrededor de 1500 páginas de texto) y límites de uso mucho más altos.
 
 Por qué: obtén información más completa de tus documentos y agiliza tus flujos de trabajo con Gemini para ahorrar tiempo y aumentar tu productividad.
+
+# Funciones de Gemini Advance que pasan a ser gratis en marzo del 2025
+
+lista las novedades que llegan a la versión gratis de Google Gemini. En cada una de ellas te daremos una pequeña explicación para que puedas entender de lo que trata. Estas funciones las tienes tanto en la versión web como en la app móvil de Gemini.
+
+- Deep Research: Es la búsqueda profunda de Gemini, con el que hace una investigación de lo que le pidas para ofrecerte resultados más amplios y precisos. Esta función solo la puedes usar un número limitado de meses al mes que Google no ha especificado.
+
+- 2.0 Flash y 2.0 Flash Thinking: Estos pasan a ser los modelos predeterminados de Gemini. Gemini 2.0 Flash y 2.0 Flash Thinking son las versiones "pequeñas" de los últimos modelos lanzados por Google, mucho más capaces y, en el caso del segundo, pudiendo pensarse las respuestas para intentar ofrecer unos mejores resultados analizado lo que le pides y el contexto en el que lo haces.
+
+- Más apps conectadas: Las aplicaciones Google Calendar, Tasks y Keep pasan a ser compatibles con el modelo 2.0 Flash Thinking. Esto quiere decir que podrás hacer peticiones relacionadas con tu contenido en ellas.
+
+- Gems de Gemini: Las Gems de Gemini ya puedes usarlas sin ser suscriptor de pago, y te permiten usar versiones de Gemini adaptadas a tareas concretas y crear tus propias adaptaciones. Vamos, que puedes hacer que Gemini sea un asistente de programación, un orientador profesional y más.
