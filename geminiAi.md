@@ -164,3 +164,13 @@ Según informes recientes, usuarios en plataformas como X (antes Twitter) y Redd
 Además de su capacidad para eliminar marcas de agua, la función de generación de texto a imagen de Gemini parece tener menos limitaciones en comparación con otras herramientas.
 
 Según los reportes, el modelo puede generar imágenes de celebridades y otro contenido protegido por derechos de autor de manera nativa, lo que podría desencadenar acciones legales por parte de los titulares de estos derechos.
+
+# La aplicación Gemini ya está disponible sin iniciar sesión en la cuenta de Google
+
+Desde su lanzamiento, la aplicación Gemini requería iniciar sesión con tu cuenta de Google para acceder. Esto ya no es necesario.
+
+A partir de hoy, visitar gemini.google.com en modo incógnito o similar te lleva directamente a la interfaz de chat en lugar de a la página de inicio anterior. Puedes introducir indicaciones y obtener respuestas. Google muestra algunas sugerencias: Ahorra tiempo, Escribe un ensayo sobre la historia del ajedrez, Ayúdame a planificar y Dame consejos de estudio. 
+
+En lugar de un saludo como "Hola, [nombre]", se dice "Te presento a Gemini, tu asistente personal de IA" para los usuarios que no han iniciado sesión. Esto coincide con el comportamiento de la Búsqueda de Google.
+
+Se muestra el selector de modelos con Flash Thinking 2.0 (experimental), Investigación Profunda y Personalización (experimental), pero debes iniciar sesión para explorar los modelos más recientes de Gemini. Por lo tanto, estás usando Gemini 2.0 Flash. 
