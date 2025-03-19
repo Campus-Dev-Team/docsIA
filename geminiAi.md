@@ -174,3 +174,14 @@ A partir de hoy, visitar gemini.google.com en modo incógnito o similar te lleva
 En lugar de un saludo como "Hola, [nombre]", se dice "Te presento a Gemini, tu asistente personal de IA" para los usuarios que no han iniciado sesión. Esto coincide con el comportamiento de la Búsqueda de Google.
 
 Se muestra el selector de modelos con Flash Thinking 2.0 (experimental), Investigación Profunda y Personalización (experimental), pero debes iniciar sesión para explorar los modelos más recientes de Gemini. Por lo tanto, estás usando Gemini 2.0 Flash. 
+
+# La IA gratis de Google permite hacer trampas y eliminar las marcas de agua de fotos
+
+La función de generación de imágenes de Gemini 2.0 Flash podrá crear imágenes de celebridades y personajes con derechos de autor sin problemas.
+
+Hace unos días, Google amplió las funciones de su modelo Gemini Flash 2.0, permitiendo crear y editar imágenes de su modelo de forma nativa, pero varios usuarios en redes sociales han descubierto que puede eliminar las marcas de agua de las fotografías de reconocidos bancos de imágenes. De esta manera, pueden ahorrarse pagar suscripciones para poder utilizar estas imágenes sin marcas de agua, cosa que impide el hacerlo libremente.
+
+Lo que ha ocurrido para que esto sea posible es que, al ampliar el acceso a su función de generación de imágenes, esta ofrece muy pocas limitaciones, dando la posibilidad de eliminar las marcas de agua, según TechCrunch. Es más, no solo las elimina, sino que rellena ese hueco al borrarlas, aunque sí que es cierto que tiene mayor dificultad ante aquellas que son transparentes o semitransparentes, pero, en general, es muy eficaz.
+
+De hecho, la función de generación de imágenes de Gemini 2.0 Flash podrá crear imágenes de celebridades y personajes con derechos de autor sin problemas, pero por el momento la función tiene la etiqueta de 'experimental'. Es decir, solo está disponible para los desarrolladores de Google, aunque Gemini 2.0 Flash está disponible de forma gratuita en el AI Studio de Google.
+
