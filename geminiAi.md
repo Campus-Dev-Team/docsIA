@@ -185,3 +185,10 @@ Lo que ha ocurrido para que esto sea posible es que, al ampliar el acceso a su f
 
 De hecho, la función de generación de imágenes de Gemini 2.0 Flash podrá crear imágenes de celebridades y personajes con derechos de autor sin problemas, pero por el momento la función tiene la etiqueta de 'experimental'. Es decir, solo está disponible para los desarrolladores de Google, aunque Gemini 2.0 Flash está disponible de forma gratuita en el AI Studio de Google.
 
+# Gemini ‘copia’ a ChatGPT y ya puede recordar tus conversaciones anteriores
+
+Gemini ya puede adaptar las respuestas en función del contenido de conversaciones anteriores. Desde la compañía de Mountain View afirman que "ya no tendrás que empezar de cero ni tener que buscar un hilo de conversación anterior". Además, puedes basarte en conversaciones anteriores o proyectos que ya hayas iniciado, como ChatGPT.
+
+Es decir, puede resumir una conversación o recordar información que hayas compartido con él en otro hilo, lo que significa que no tendrás que repetir información que ya hayas compartido con la IA de Google. Comentan que el objetivo es hacer de Gemini mucho más fluido y personal, pero ofrece la oportunidad al usuario de gestionar el historial del chat.
+
+Esto se traduce en que para abordar los temas de privacidad, va a permitir al usuario revisar, eliminar o decidir durante cuanto tiempo se conservará el historial del chat que se ubica en la sección de ‘Mi actividad’. Por el momento, se está implementando para los suscriptores de habla inglesa en la suscripción de Google One AI Premium, pero en las próximas semanas llegará a más idiomas y para usuarios con cuentas empresariales.
