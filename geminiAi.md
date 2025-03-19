@@ -192,3 +192,28 @@ Gemini ya puede adaptar las respuestas en función del contenido de conversacion
 Es decir, puede resumir una conversación o recordar información que hayas compartido con él en otro hilo, lo que significa que no tendrás que repetir información que ya hayas compartido con la IA de Google. Comentan que el objetivo es hacer de Gemini mucho más fluido y personal, pero ofrece la oportunidad al usuario de gestionar el historial del chat.
 
 Esto se traduce en que para abordar los temas de privacidad, va a permitir al usuario revisar, eliminar o decidir durante cuanto tiempo se conservará el historial del chat que se ubica en la sección de ‘Mi actividad’. Por el momento, se está implementando para los suscriptores de habla inglesa en la suscripción de Google One AI Premium, pero en las próximas semanas llegará a más idiomas y para usuarios con cuentas empresariales.
+
+# Gemini se vuelve personal, con ayuda personalizada de tus aplicaciones de Google
+
+Con Gemini, estamos creando un asistente de inteligencia artificial personal, uno que no solo te responda a preguntas generales, sino que te entienda. Hoy damos el primer paso hacia este objetivo con el lanzamiento de Gemini con personalización, una nueva capacidad experimental.
+
+Impulsado por nuestro modelo experimental Gemini 2.0 Flash Thinking, Gemini con personalización se conectará con tus aplicaciones de Google para ofrecer respuestas que sean relevantes para ti. Comenzamos con el Buscador, lo que significa que ahora, con tu permiso, Gemini puede ofrecerte una experiencia más personalizada basada en tus búsquedas anteriores. En los próximos meses, Gemini podrá obtener un contexto más profundo de otras aplicaciones y servicios de Google, como Fotos y YouTube, siempre con tu permiso. Esto hará de Gemini un compañero aún más inteligente, capaz de establecer conexiones significativas y ofrecer respuestas relevantes que reflejen tus pasiones y curiosidades.
+
+Así es como funciona: en las aplicaciones de Gemini, puedes seleccionar "Personalización (experimental)" en el menú desplegable del modelo para conectarte a tu historial de búsqueda. Luego, cuando ingreses una instrucción, Gemini la analizará y determinará si tu historial de búsqueda puede mejorar la respuesta. Tú tienes el control de tu información y puedes desconectar fácilmente a Gemini de tu historial de búsqueda en cualquier momento.
+
+Solo utilizaremos tu historial de búsqueda cuando nuestros modelos de razonamiento avanzado determinen que es realmente útil. Las primeras personas usuarias han encontrado que Gemini con personalización es útil para la lluvia de ideas y para obtener recomendaciones personalizadas. Continuaremos recopilando comentarios de las personas usuarias sobre las aplicaciones más útiles de esta capacidad.
+
+¿Quieres probarlo? Aquí tienes algunos ejemplos de instrucciones que puedes pedirle a Gemini con la personalización activada:
+
+¿A dónde debería ir de vacaciones este verano?
+Quiero abrir un canal de YouTube, pero necesito ideas para el contenido.
+¿Qué me sugerirías aprender para un nuevo trabajo?
+Gemini con personalización se lanza como una función experimental, disponible hoy para las personas suscritas a Gemini y Gemini Advanced en la web, y se implementará gradualmente en dispositivos móviles. Está disponible en más de 40 idiomas y en la mayoría de los países de todo el mundo.
+
+Privacidad y controles de datos integrados
+
+Con esta actualización, tienes el control total de tu información. Hemos implementado sólidas medidas de seguridad de privacidad:
+
+Aviso claro: Gemini te pedirá permiso antes de conectarse a tu historial de búsqueda o a cualquier otra aplicación. Esto garantiza que tengas pleno conocimiento y control sobre el uso de tus datos.
+Transparencia de las fuentes de datos: Nuestro modelo de razonamiento avanzado ofrece un esquema completo de cómo Gemini personaliza las respuestas, y puede mostrarte qué fuentes de datos, como tu información almacenada, chats anteriores o historial de búsqueda, se utilizaron. Cuando estés utilizando el experimento de personalización, Gemini mostrará un banner claro con un enlace para desconectar fácilmente tu historial de búsqueda.
+Datos y control: Con esta función experimental, Gemini solo accederá a tu historial de búsqueda cuando hayas seleccionado Gemini con personalización, cuando le hayas dado permiso a Gemini para conectarse a tu historial y cuando tengas activada la opción ‘Actividad web y de aplicaciones’. También puedes ver y administrar tu historial de búsqueda.
