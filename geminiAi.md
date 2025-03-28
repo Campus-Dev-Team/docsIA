@@ -217,3 +217,13 @@ Con esta actualización, tienes el control total de tu información. Hemos imple
 Aviso claro: Gemini te pedirá permiso antes de conectarse a tu historial de búsqueda o a cualquier otra aplicación. Esto garantiza que tengas pleno conocimiento y control sobre el uso de tus datos.
 Transparencia de las fuentes de datos: Nuestro modelo de razonamiento avanzado ofrece un esquema completo de cómo Gemini personaliza las respuestas, y puede mostrarte qué fuentes de datos, como tu información almacenada, chats anteriores o historial de búsqueda, se utilizaron. Cuando estés utilizando el experimento de personalización, Gemini mostrará un banner claro con un enlace para desconectar fácilmente tu historial de búsqueda.
 Datos y control: Con esta función experimental, Gemini solo accederá a tu historial de búsqueda cuando hayas seleccionado Gemini con personalización, cuando le hayas dado permiso a Gemini para conectarse a tu historial y cuando tengas activada la opción ‘Actividad web y de aplicaciones’. También puedes ver y administrar tu historial de búsqueda.
+
+# Gemini es mi nuevo Photoshop pero sin salir de Android. Puedo eliminar personas, añadir objetos y cualquier otro truco que se precie
+
+La IA que funciona independientemente del fabricante Android es la de Google. Gemini llegó en forma de app con su particular chatbot para luego convertirse en asistente digital. Desde entonces, es una herramienta casi imprescindible en mi día a día. Y lo último de Gemini 2.0 es la edición de imágenes, algo en lo que pensaba que quedaría atrás respecto a rivales como Midjourney o Designer de Microsoft.
+
+Gemini es capaz de eliminar personas u objetos, embellecer selfis, hacer zoom sin perder calidad en fotos, y un sinfín de acciones, todo ello sin necesidad de conocimientos de Photoshop. No soy muy entendido del software de Adobe, y ahora lo uso menos que nunca gracias a Gemini. Te enseño cómo aprovecho las capacidades generativas de imagen.
+
+Aunque estas funciones de Gemini no se encuentran disponibles en la app nativa para Android, tampoco son posibles desde el navegador. Están filtradas por la propia Google en su puesta a punto para el chatbot para el usuario general, pero no en la versión para empresas y desarrolladores.
+
+Google AI Studio es la herramienta que comprende todos los modelos de lenguaje de la compañía del buscador. Aquí se encuentran en su versión más avanzada, donde como venía comentando, es posible usar las capacidades generativas de imagen para editar mis propios materiales gráficos.
