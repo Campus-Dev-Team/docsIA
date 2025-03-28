@@ -235,3 +235,7 @@ Supera a otros modelos similares en las evaluaciones estándar de ciencias y mat
 Google confirmó el lanzamiento de Gemini 2.5 Pro, su modelo de inteligencia artificial (IA) más avanzado hasta la fecha. Este algoritmo cuenta con potentes capacidades de razonamiento y programación, lo que le ha permitido superar ampliamente a sus competidores en la mayoría de las pruebas estándar de rendimiento.
 
 Koray Kavukcuoglu, director tecnológico de Google DeepMind, asegura que Gemini 2.5 Pro puede "razonar sus pensamientos" antes de responder, lo que optimiza su rendimiento y mejora la precisión de sus resultados. Esto implica que la nueva IA es capaz de analizar grandes volúmenes de datos, extraer conclusiones lógicas, incorporar contextos y tomar decisiones fundamentadas.
+
+# Gemini Robotics, una IA para robots humanoides
+
+El funcionamiento de esta versión de Gemini se basa en técnicas de aprendizaje por refuerzo y en la inducción de cadenas de pensamiento. Google ya había empleado estas metodologías en el desarrollo de Gemini 2.0 y Gemini 2.0 Flash Thinking, pero sostiene que, con su nuevo modelo, ha alcanzado un estándar de rendimiento superior. La compañía explica que su más reciente algoritmo combina un modelo base significativamente mejorado con un proceso de post-entrenamiento avanzado. Esto le permite abordar problemas más complejos en diversas áreas y dar soporte a agentes de IA con mayores capacidades y sensibilidad contextual.
