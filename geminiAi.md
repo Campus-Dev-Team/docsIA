@@ -227,3 +227,11 @@ Gemini es capaz de eliminar personas u objetos, embellecer selfis, hacer zoom si
 Aunque estas funciones de Gemini no se encuentran disponibles en la app nativa para Android, tampoco son posibles desde el navegador. Están filtradas por la propia Google en su puesta a punto para el chatbot para el usuario general, pero no en la versión para empresas y desarrolladores.
 
 Google AI Studio es la herramienta que comprende todos los modelos de lenguaje de la compañía del buscador. Aquí se encuentran en su versión más avanzada, donde como venía comentando, es posible usar las capacidades generativas de imagen para editar mis propios materiales gráficos.
+
+# El modelo de IA más avanzado de Google se llama Gemini 2.5 Pro
+
+Supera a otros modelos similares en las evaluaciones estándar de ciencias y matemáticas, según Google.
+
+Google confirmó el lanzamiento de Gemini 2.5 Pro, su modelo de inteligencia artificial (IA) más avanzado hasta la fecha. Este algoritmo cuenta con potentes capacidades de razonamiento y programación, lo que le ha permitido superar ampliamente a sus competidores en la mayoría de las pruebas estándar de rendimiento.
+
+Koray Kavukcuoglu, director tecnológico de Google DeepMind, asegura que Gemini 2.5 Pro puede "razonar sus pensamientos" antes de responder, lo que optimiza su rendimiento y mejora la precisión de sus resultados. Esto implica que la nueva IA es capaz de analizar grandes volúmenes de datos, extraer conclusiones lógicas, incorporar contextos y tomar decisiones fundamentadas.
