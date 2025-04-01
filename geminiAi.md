@@ -240,8 +240,28 @@ Koray Kavukcuoglu, director tecnológico de Google DeepMind, asegura que Gemini 
 
 El funcionamiento de esta versión de Gemini se basa en técnicas de aprendizaje por refuerzo y en la inducción de cadenas de pensamiento. Google ya había empleado estas metodologías en el desarrollo de Gemini 2.0 y Gemini 2.0 Flash Thinking, pero sostiene que, con su nuevo modelo, ha alcanzado un estándar de rendimiento superior. La compañía explica que su más reciente algoritmo combina un modelo base significativamente mejorado con un proceso de post-entrenamiento avanzado. Esto le permite abordar problemas más complejos en diversas áreas y dar soporte a agentes de IA con mayores capacidades y sensibilidad contextual.
 
-Gemini 2.5 Pro
+# Gemini 2.5 Pro
 Gemini 2.5 Pro Experimental es nuestro modelo más avanzado para tareas complejas. Encabeza la clasificación de LMArena , que mide las preferencias humanas, por un margen significativo, lo que indica un modelo altamente capaz y con un estilo de alta calidad. 2.5 Pro también muestra sólidas capacidades de razonamiento y programación, liderando los estándares comunes de programación, matemáticas y ciencias.
 
 Gemini 2.5 Pro ya está disponible en Google AI Studio y en la app de Gemini para usuarios de Gemini Advanced, y pronto llegará a Vertex AI . También anunciaremos los precios en las próximas semanas, lo que permitirá usar la versión 2.5 Pro con límites de velocidad más altos para una producción a gran escala.
+![gemini_benchmarks_cropped_light2x_1PPmDuP](https://github.com/user-attachments/assets/c88b6603-2ae9-4e87-90f7-df63901d97c5)
 
+## Razonamiento mejorado
+Gemini 2.5 Pro es la última tecnología en una variedad de pruebas de rendimiento que requieren razonamiento avanzado. Sin técnicas de tiempo de prueba que incrementan el coste, como la votación por mayoría, 2.5 Pro lidera en pruebas de rendimiento de matemáticas y ciencias como GPQA y AIME 2025.
+
+También obtiene un puntaje de última generación del 18,8% en modelos sin uso de herramientas en Humanity's Last Exam, un conjunto de datos diseñado por cientos de expertos en la materia para capturar la frontera humana del conocimiento y el razonamiento.
+
+![Gemini 2 5_ Nuestro nuevo modelo Gemini con pensamiento](https://github.com/user-attachments/assets/d7cf8f99-c032-4f97-9d79-ab4f2e0e7657)
+
+## Codificación avanzada
+Nos hemos centrado en el rendimiento de la codificación, y con Gemini 2.5 hemos dado un gran salto con respecto a la versión 2.0, con más mejoras por venir. 2.5 Pro destaca en la creación de aplicaciones web visualmente atractivas y aplicaciones de código agentic, además de la transformación y edición de código. En SWE-Bench Verified, el estándar de la industria para evaluaciones de código agentic, Gemini 2.5 Pro obtiene una puntuación del 63,8 % con una configuración de agente personalizada.
+
+He aquí un ejemplo de cómo 2.5 Pro puede usar sus capacidades de razonamiento para crear un videojuego produciendo el código ejecutable a partir de una única línea de solicitud.
+
+## Construyendo sobre lo mejor de Géminis
+Gemini 2.5 se basa en lo que hace excelentes a los modelos de Gemini: multimodalidad nativa y una amplia ventana de contexto. La versión 2.5 Pro se entrega hoy con una ventana de contexto de 1 millón de tokens (próximamente, 2 millones), con un rendimiento sólido que mejora con respecto a las generaciones anteriores. Puede comprender grandes conjuntos de datos y gestionar problemas complejos de diferentes fuentes de información, como texto, audio, imágenes, vídeo e incluso repositorios de código completos.
+
+Los desarrolladores y empresas ya pueden empezar a experimentar con Gemini 2.5 Pro en Google AI Studio , y los usuarios de Gemini Advanced pueden seleccionarlo en el menú desplegable de modelos en computadoras de escritorio y dispositivos móviles. Estará disponible en Vertex AI en las próximas semanas.
+
+# Model family
+![Gemini - Google DeepMind](https://github.com/user-attachments/assets/3ca93f0c-65f3-4e4a-ab48-c98bfc9e12bd)
