@@ -239,3 +239,9 @@ Koray Kavukcuoglu, director tecnológico de Google DeepMind, asegura que Gemini 
 # Gemini Robotics, una IA para robots humanoides
 
 El funcionamiento de esta versión de Gemini se basa en técnicas de aprendizaje por refuerzo y en la inducción de cadenas de pensamiento. Google ya había empleado estas metodologías en el desarrollo de Gemini 2.0 y Gemini 2.0 Flash Thinking, pero sostiene que, con su nuevo modelo, ha alcanzado un estándar de rendimiento superior. La compañía explica que su más reciente algoritmo combina un modelo base significativamente mejorado con un proceso de post-entrenamiento avanzado. Esto le permite abordar problemas más complejos en diversas áreas y dar soporte a agentes de IA con mayores capacidades y sensibilidad contextual.
+
+Gemini 2.5 Pro
+Gemini 2.5 Pro Experimental es nuestro modelo más avanzado para tareas complejas. Encabeza la clasificación de LMArena , que mide las preferencias humanas, por un margen significativo, lo que indica un modelo altamente capaz y con un estilo de alta calidad. 2.5 Pro también muestra sólidas capacidades de razonamiento y programación, liderando los estándares comunes de programación, matemáticas y ciencias.
+
+Gemini 2.5 Pro ya está disponible en Google AI Studio y en la app de Gemini para usuarios de Gemini Advanced, y pronto llegará a Vertex AI . También anunciaremos los precios en las próximas semanas, lo que permitirá usar la versión 2.5 Pro con límites de velocidad más altos para una producción a gran escala.
+
