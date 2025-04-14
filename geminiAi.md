@@ -369,3 +369,17 @@ El documento recomienda a los usuarios mantenerse al día con los cambios en la 
 
 ### Experimente con formatos de salida: 
 Google sugiere diseñar sus indicaciones para que el LLM devuelva la salida en formato JSON. La Notificación de Objetos JavaScript (JSON) es un formato de datos estructurados que se puede utilizar en la ingeniería de indicaciones, especialmente para tareas como la extracción, selección, análisis, ordenación, clasificación o categorización de datos.
+
+# Nueva actualización de funciones de Gemini: Google trabaja en la integración de GitHub para su chatbot de IA para simplificar el flujo de trabajo.
+
+Google está trabajando en la integración de GitHub en su cha ..
+
+Read more at:
+https://www.latestly.com/socially/technology/gemini-new-feature-update-google-working-on-integrating-github-for-its-ai-chatbot-to-simplify-workflow-6763359.html
+
+# Gemini Live con pantalla y cámara compartida llega hoy a los dispositivos Google Pixel 9 y Samsung Galaxy S25 y está disponible para todos los usuarios avanzados de Android en la aplicación Gemini.
+
+Gemini Live, con pantalla y cámara compartidas, se lanza hoy ..
+
+Read more at:
+https://www.latestly.com/socially/technology/gemini-live-with-screen-camera-sharing-rolling-out-to-google-pixel-9-and-samsung-galaxy-s25-devices-today-available-for-all-advanced-users-on-android-in-gemini-app-6765420.html
