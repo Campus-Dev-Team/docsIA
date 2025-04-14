@@ -330,3 +330,42 @@ Combinado con los propios LLM de Samsung, Samsung nos informa que Ballie podrá 
 Esto significa la capacidad de comprender voces, imágenes y datos ambientales, para que pueda hacer más que simplemente rodar, lucir adorable y proyectar la segunda temporada de The Last of Us en tu pared.
 
 Nos han prometido que será un asistente doméstico inteligente móvil que podrá interactuar de forma conversacional, ofrecer cosas como consejos de estilo y ayudarle a crear ambientes personalizados en su hogar.
+
+# Google presenta un nuevo manual de ingeniería rápida: 10 puntos clave para dominar Gemini y otras herramientas de IA
+
+El documento de 68 páginas escrito por Lee Boonstra, ingeniero de software y líder técnico de Google, se centra en ayudar a los usuarios a escribir mejores indicaciones para su chatbot insignia Gemini dentro de su sandbox Vertex AI o mediante el uso de la API para desarrolladores de Gemini .
+
+Esto se debe a que, según el documento, al solicitar directamente el modelo, se tendrá acceso a la configuración, como la temperatura, etc. Analicemos los aspectos más destacados del informe técnico de Google sobre ingeniería de solicitudes, de febrero de 2025.
+
+## Diez puntos clave para recordar
+Para convertirse en un profesional en ingeniería rápida, Google ha ofrecido los siguientes consejos:
+
+### Proporcionar ejemplos:
+Google recomienda proporcionar al menos uno o varios ejemplos dentro de una solicitud de texto para que el modelo de IA pueda imitar el ejemplo o captar el patrón necesario para completar la tarea. "Es como darle al modelo un punto de referencia o un objetivo al que apuntar, mejorando la precisión, el estilo y el tono de su respuesta para que se ajuste mejor a sus expectativas", se lee en el documento técnico.
+
+### Mantenlo simple: 
+Google ha advertido contra el uso de lenguaje complejo y de brindar información innecesaria a los LLM dentro del mensaje de texto, y en su lugar usar verbos que describan la acción.
+
+### Sea específico: 
+"Proporcionar detalles específicos en la indicación (mediante indicaciones del sistema o del contexto) puede ayudar al modelo a centrarse en lo relevante, mejorando así la precisión general", afirmó Google. Mientras que las indicaciones del sistema ofrecen al LLM una visión global, las indicaciones contextuales proporcionan detalles específicos o información de fondo relevante para la conversación o tarea actual.
+
+### Instrucciones sobre restricciones: 
+«En lugar de decirle al modelo qué no debe hacer, dígale qué debe hacer. Esto puede evitar confusiones y mejorar la precisión del resultado».
+
+### Controlar la longitud máxima del token: 
+Esto implica configurar la salida generada por la IA solicitando una longitud específica o un límite máximo de tokens. Por ejemplo: "Explicar la física cuántica en un mensaje con la longitud de un tuit".
+
+### Usa variables en las indicaciones: 
+"Si necesitas usar la misma información en varias indicaciones, puedes guardarla en una variable y luego hacer referencia a ella en cada una", indicó Google. Esto probablemente te ahorrará tiempo y esfuerzo, ya que te permitirá evitar repetir lo mismo.
+
+### Experimente con estilos de escritura: 
+los resultados generados por IA dependen de varios factores, como configuraciones del modelo, formatos de indicaciones, elección de palabras, etc. Experimentar con atributos de las indicaciones, como el estilo, la elección de palabras y el tipo de indicación, puede producir resultados diferentes.
+
+### Combina las clases de respuesta: 
+Si necesitas un modelo de IA para clasificar tus datos, Google recomienda combinar las posibles clases de respuesta en los múltiples ejemplos proporcionados en la solicitud. "Una buena regla general es empezar con seis ejemplos de pocos disparos y, a partir de ahí, ir probando la precisión", explicó la compañía.
+
+### Adaptarse a las actualizaciones del modelo: 
+El documento recomienda a los usuarios mantenerse al día con los cambios en la arquitectura del modelo, así como con las nuevas funciones y capacidades anunciadas. "Pruebe las nuevas versiones del modelo y ajuste sus indicaciones para aprovechar mejor las nuevas funciones", afirma.
+
+### Experimente con formatos de salida: 
+Google sugiere diseñar sus indicaciones para que el LLM devuelva la salida en formato JSON. La Notificación de Objetos JavaScript (JSON) es un formato de datos estructurados que se puede utilizar en la ingeniería de indicaciones, especialmente para tareas como la extracción, selección, análisis, ordenación, clasificación o categorización de datos.
