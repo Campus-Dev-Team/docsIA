@@ -280,3 +280,15 @@ Y el agente:
  ✅ Y genera un informe visual con los resultados
 
 🧠 Este tipo de testing autónomo no solo ahorra tiempo, sino que acerca a los developers y testers a un nuevo paradigma, donde lo importante no es el "cómo clickea" la prueba, sino si realmente cumple el objetivo del usuario.
+
+# 2025.03.25 Gemini
+
+Acceso prioritario con Gemini Advanced: prueba nuestro último modelo 2.5 Pro (experimental)
+
+Qué: hoy presentamos Gemini 2.5, nuestro modelo de IA más inteligente. Nuestro primer lanzamiento 2.5 es una versión optimizada para conversaciones del modelo Gemini-2.5-Pro-Exp-03-25. Su tecnología de última generación lo hace destacar en una amplia gama de comparativas, y debuta en el puesto n.º 1 en LMArena con un margen significativo. Este modelo también cuenta con funciones de pensamiento integradas de forma nativa y un rendimiento mejorado en tareas complejas como programación, matemáticas o comprensión de imágenes.
+
+2.5 Pro (experimental) ya se está desplegando en las aplicaciones web y móvil de Gemini, y está disponible en los planes para empresas y centros educativos de Google Workspace que cumplan los requisitos.
+
+Este modelo experimental es una versión preliminar, por lo que puede tener comportamientos inesperados y cometer errores.
+
+Por qué: creemos en la iteración rápida y en ofrecer lo mejor de Gemini al mundo, y queremos otorgarles a los suscriptores de Gemini Advanced acceso prioritario a nuestras últimas innovaciones en IA. Tus comentarios nos ayudan a mejorar estos modelos con el tiempo, y los aprendizajes que nos aportan los lanzamientos experimentales nos ayudan a definir cómo ponemos los modelos a disposición de un mayor número de usuarios.
