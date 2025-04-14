@@ -383,3 +383,6 @@ Gemini Live, con pantalla y cámara compartidas, se lanza hoy ..
 
 Read more at:
 https://www.latestly.com/socially/technology/gemini-live-with-screen-camera-sharing-rolling-out-to-google-pixel-9-and-samsung-galaxy-s25-devices-today-available-for-all-advanced-users-on-android-in-gemini-app-6765420.html
+
+# Google lanza el modo de inteligencia artificial con tecnología Gemini para millones de usuarios de More Labs en EE. UU. y agrega más potencia de lente para búsqueda multimodal mediante texto, voz, cámara e imágenes.
+
