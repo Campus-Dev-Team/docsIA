@@ -265,3 +265,18 @@ Los desarrolladores y empresas ya pueden empezar a experimentar con Gemini 2.5 P
 
 # Model family
 ![Gemini - Google DeepMind](https://github.com/user-attachments/assets/3ca93f0c-65f3-4e4a-ab48-c98bfc9e12bd)
+
+# Nueva App Testing Agent de Firebase impulsada por IA (Gemini)
+
+Lanzamiento del nuevo App Testing Agent de Firebase, una herramienta que permite automatizar pruebas funcionales usando lenguaje natural y agentes impulsados por IA (Gemini).
+
+📱 ¿Qué significa esto?
+ Ahora puedes escribir algo como:
+“Simula que un usuario inicia sesión, accede a su perfil y cambia la configuración de notificaciones.”
+Y el agente: 
+ ✅ Interpreta la intención
+ ✅ Navega por la app como un usuario real
+ ✅ Valida cada paso
+ ✅ Y genera un informe visual con los resultados
+
+🧠 Este tipo de testing autónomo no solo ahorra tiempo, sino que acerca a los developers y testers a un nuevo paradigma, donde lo importante no es el "cómo clickea" la prueba, sino si realmente cumple el objetivo del usuario.
