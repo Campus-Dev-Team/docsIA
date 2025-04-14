@@ -316,6 +316,7 @@ La otra diferencia es la selección de tiendas, que parecen atractivas pero no s
 
 # El simpático robot Ballie Ball de Samsung llega con inteligencia artificial Gemini
 
+![Samsung’s Cute Robot Ballie Ball Is Rolling In With Gemini AI Smarts](https://github.com/user-attachments/assets/7eb235d1-1516-4b22-9bee-5295df113e25)
 
 La compañía coreana confirmó que Ballie llegará a los hogares de Estados Unidos y Corea este verano, con una jugosa actualización de inteligencia artificial cortesía de Google Gemini.
 
