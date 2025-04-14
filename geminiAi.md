@@ -299,3 +299,16 @@ Google ha lanzado su nueva familia de modelos, TxGemma, dise ..
 
 Read more at:
 https://www.latestly.com/socially/sports/cricket/rohit-sharma-signals-mahela-jayawardene-to-ask-karn-sharma-to-make-kl-rahul-sweep-spotted-clapping-after-his-strategy-helps-dismiss-star-batter-during-dc-vs-mi-ipl-2025-match-watch-video-6781158.html
+
+# La herramienta de inteligencia artificial de Google, Gemini, genera imágenes de Ipswich
+
+Después de una tendencia creciente de usar IA para crear imágenes, decidimos utilizar la herramienta Gemini de Google para generar imágenes de personas y lugares alrededor de Ipswich. 
+
+Al crear imágenes de aspecto realista, la herramienta cometió varios errores, desde problemas con la ortografía hasta problemas al crear imágenes de edificios de la ciudad. 
+
+Para empezar, le pedimos información sobre la demografía de la ciudad, ya que probablemente ésta sería utilizada para hacer imágenes de personas. 
+
+Una vez más, el generador de IA parece haber olvidado los datos demográficos de los que habló anteriormente, ya que la mayoría de las personas en la imagen parecen ser hombres blancos mayores. 
+
+La otra diferencia es la selección de tiendas, que parecen atractivas pero no son representativas del centro de la ciudad de Ipswich, que tiene edificios más modernos así como otros más antiguos, como muestra la imagen.
+
