@@ -386,3 +386,6 @@ https://www.latestly.com/socially/technology/gemini-live-with-screen-camera-shar
 
 # Google lanza el modo de inteligencia artificial con tecnología Gemini para millones de usuarios de More Labs en EE. UU. y agrega más potencia de lente para búsqueda multimodal mediante texto, voz, cámara e imágenes.
 
+![Google lanza el modo de inteligencia artificial con tecnología Gemini para millones de usuarios de l](https://github.com/user-attachments/assets/e7a857f0-4d76-4a3e-a441-6db2c64a4a8c)
+
+
