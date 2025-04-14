@@ -302,6 +302,8 @@ https://www.latestly.com/socially/sports/cricket/rohit-sharma-signals-mahela-jay
 
 # La herramienta de inteligencia artificial de Google, Gemini, genera imágenes de Ipswich
 
+![Google's AI tool Gemini generates images of Ipswich _ Ipswich Star](https://github.com/user-attachments/assets/34d95976-503b-4ef7-8802-a905d7461f21)
+
 Después de una tendencia creciente de usar IA para crear imágenes, decidimos utilizar la herramienta Gemini de Google para generar imágenes de personas y lugares alrededor de Ipswich. 
 
 Al crear imágenes de aspecto realista, la herramienta cometió varios errores, desde problemas con la ortografía hasta problemas al crear imágenes de edificios de la ciudad. 
