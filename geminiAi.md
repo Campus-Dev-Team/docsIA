@@ -312,3 +312,19 @@ Una vez más, el generador de IA parece haber olvidado los datos demográficos d
 
 La otra diferencia es la selección de tiendas, que parecen atractivas pero no son representativas del centro de la ciudad de Ipswich, que tiene edificios más modernos así como otros más antiguos, como muestra la imagen.
 
+# El simpático robot Ballie Ball de Samsung llega con inteligencia artificial Gemini
+
+
+La compañía coreana confirmó que Ballie llegará a los hogares de Estados Unidos y Corea este verano, con una jugosa actualización de inteligencia artificial cortesía de Google Gemini.
+
+El registro previo ya está activo en el sitio web de Samsung , por lo que parece que, finalmente, Samsung se toma en serio el hecho de convertir este antiguo prototipo en un producto que realmente se pueda comprar.
+
+De hecho, he visto a Ballie circulando por varias exposiciones CES e IFA a lo largo de los años y nunca me ha parecido nada más que un proyector glorificado sobre ruedas.
+
+Sin embargo, gracias a una asociación recientemente anunciada entre Samsung y Google, Ballie se infundirá con la tecnología de inteligencia artificial generativa de Google Cloud, Gemini.
+
+Combinado con los propios LLM de Samsung, Samsung nos informa que Ballie podrá " ofrecer interacciones personalizadas y asistencia proactiva en el hogar a los usuarios".
+
+Esto significa la capacidad de comprender voces, imágenes y datos ambientales, para que pueda hacer más que simplemente rodar, lucir adorable y proyectar la segunda temporada de The Last of Us en tu pared.
+
+Nos han prometido que será un asistente doméstico inteligente móvil que podrá interactuar de forma conversacional, ofrecer cosas como consejos de estilo y ayudarle a crear ambientes personalizados en su hogar.
