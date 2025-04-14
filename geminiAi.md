@@ -292,3 +292,10 @@ Qué: hoy presentamos Gemini 2.5, nuestro modelo de IA más inteligente. Nuestro
 Este modelo experimental es una versión preliminar, por lo que puede tener comportamientos inesperados y cometer errores.
 
 Por qué: creemos en la iteración rápida y en ofrecer lo mejor de Gemini al mundo, y queremos otorgarles a los suscriptores de Gemini Advanced acceso prioritario a nuestras últimas innovaciones en IA. Tus comentarios nos ayudan a mejorar estos modelos con el tiempo, y los aprendizajes que nos aportan los lanzamientos experimentales nos ayudan a definir cómo ponemos los modelos a disposición de un mayor número de usuarios.
+
+# Google TxGemma: el gigante tecnológico lanza nuevos modelos de IA diseñados para la atención médica y el desarrollo de fármacos, basados ​​en Gemma y Gemini.
+
+Google ha lanzado su nueva familia de modelos, TxGemma, dise ..
+
+Read more at:
+https://www.latestly.com/socially/sports/cricket/rohit-sharma-signals-mahela-jayawardene-to-ask-karn-sharma-to-make-kl-rahul-sweep-spotted-clapping-after-his-strategy-helps-dismiss-star-batter-during-dc-vs-mi-ipl-2025-match-watch-video-6781158.html
